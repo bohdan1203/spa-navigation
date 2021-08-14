@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/spa-navigation/static/css/main.dfcfbc34.chunk.css",
+    "main.js": "/spa-navigation/static/js/main.bb6c31c4.chunk.js",
+    "main.js.map": "/spa-navigation/static/js/main.bb6c31c4.chunk.js.map",
+    "runtime-main.js": "/spa-navigation/static/js/runtime-main.ffaba876.js",
+    "runtime-main.js.map": "/spa-navigation/static/js/runtime-main.ffaba876.js.map",
+    "static/js/2.dfc169da.chunk.js": "/spa-navigation/static/js/2.dfc169da.chunk.js",
+    "static/js/2.dfc169da.chunk.js.map": "/spa-navigation/static/js/2.dfc169da.chunk.js.map",
+    "index.html": "/spa-navigation/index.html",
+    "static/css/main.dfcfbc34.chunk.css.map": "/spa-navigation/static/css/main.dfcfbc34.chunk.css.map",
+    "static/js/2.dfc169da.chunk.js.LICENSE.txt": "/spa-navigation/static/js/2.dfc169da.chunk.js.LICENSE.txt",
+    "static/media/a-random-picture.bd60e0a3.jpg": "/spa-navigation/static/media/a-random-picture.bd60e0a3.jpg",
+    "static/media/born-to-feel.8669d058.jpg": "/spa-navigation/static/media/born-to-feel.8669d058.jpg",
+    "static/media/comment.847cdf37.svg": "/spa-navigation/static/media/comment.847cdf37.svg",
+    "static/media/image-1.1035ea0e.jpg": "/spa-navigation/static/media/image-1.1035ea0e.jpg",
+    "static/media/image-2.5eee1d2f.jpg": "/spa-navigation/static/media/image-2.5eee1d2f.jpg",
+    "static/media/image-3.efa8f268.jpg": "/spa-navigation/static/media/image-3.efa8f268.jpg",
+    "static/media/image-4.e04ef510.jpg": "/spa-navigation/static/media/image-4.e04ef510.jpg",
+    "static/media/image-5.3d506288.jpg": "/spa-navigation/static/media/image-5.3d506288.jpg",
+    "static/media/image-6.642b50ef.jpg": "/spa-navigation/static/media/image-6.642b50ef.jpg",
+    "static/media/image-7.4383b6ed.jpg": "/spa-navigation/static/media/image-7.4383b6ed.jpg",
+    "static/media/image-8.c78b7a98.jpg": "/spa-navigation/static/media/image-8.c78b7a98.jpg",
+    "static/media/like.1067e8f2.svg": "/spa-navigation/static/media/like.1067e8f2.svg",
+    "static/media/main-image.3f3f6874.jpg": "/spa-navigation/static/media/main-image.3f3f6874.jpg",
+    "static/media/not-a-random-picture.d10bfe59.jpg": "/spa-navigation/static/media/not-a-random-picture.d10bfe59.jpg",
+    "static/media/repost.93df3f31.svg": "/spa-navigation/static/media/repost.93df3f31.svg",
+    "static/media/share.4411a42e.svg": "/spa-navigation/static/media/share.4411a42e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffaba876.js",
+    "static/js/2.dfc169da.chunk.js",
+    "static/css/main.dfcfbc34.chunk.css",
+    "static/js/main.bb6c31c4.chunk.js"
+  ]
+}
