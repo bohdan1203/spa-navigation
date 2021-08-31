@@ -1,8 +1,10 @@
-import Contact from './components/Contact';
-import state from './components/Contacts'
 import { useState } from 'react';
 
-import {Switch, Route, Link} from "react-router-dom";
+import Contact from './components/Contact';
+import state from './components/Contacts'
+
+
+
 
 
 const ContactsComponent = () => {

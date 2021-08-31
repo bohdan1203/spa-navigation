@@ -1,4 +1,3 @@
-import "./App.css";
 import { Switch, Route, NavLink, useParams, Link } from "react-router-dom";
 import { useState, useEffect } from "react";
 
@@ -7,6 +6,8 @@ import HomeComponent from "./components/home/Home";
 import PublicationsComponent from "./components/publications/Publications";
 import PhotosComponent from "./components/photos/Photos";
 import ContactsComponent from "./components/contacts/Contacts";
+
+import "./App.css";
 
 function Person() {
   const [name, setName] = useState("Name");
@@ -37,7 +38,7 @@ function App() {
   return (
     <div className="App">
       <nav>
-        <NavLink to="/" exact activeClassName="selected">
+        <NavLink exact to="/spa-navigation"  activeClassName="selected">
           Home
         </NavLink>
         <NavLink to="/publications" activeClassName="selected">
@@ -51,7 +52,7 @@ function App() {
         </NavLink>
       </nav>
       <Switch>
-        <Route exact path="/" component={HomeComponent} />
+        <Route  path="/spa-navigation" exact component={HomeComponent} />
         <Route path="/publications" component={PublicationsComponent} />
         <Route path="/photos" component={PhotosComponent} />
 

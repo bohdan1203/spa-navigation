@@ -1,7 +1,4 @@
 import MainImage from './images/main-image.jpg';
-import { useState, useEffect } from 'react';
-
-
 
 
 const HomeComponent = () => {
@@ -9,9 +6,6 @@ const HomeComponent = () => {
 
     return (
       <main>
-
-
-
 
         <h1>Main Page</h1>
         <img className="main-image" src={MainImage} alt="andes mountains" />

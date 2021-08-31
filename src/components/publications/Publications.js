@@ -47,10 +47,6 @@ const posts = [
   },
 ]
 
-
-
-
-
 const PublicationsComponent = () => {
     return (
       <div className="publications-body">
